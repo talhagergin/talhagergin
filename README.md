@@ -5,8 +5,8 @@ Software Developer
 ### **About Me**
 
 ### ⚡ *I’m interested in*
-- Backend Develop
-- Mobil App Development
+- Backend Developing
+- Mobil App Developing
 
 ### 🌱 *I’m currently learning*
 - ASP.NET
