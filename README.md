@@ -10,7 +10,7 @@ Software Developer
 
 ### 🌱 *I’m currently learning*
 - Node.js 
-- -Swift / Kotlin
+- Swift / Kotlin
 - Microservices
 
 ### 📧 Get in touch: talhagergin6@gmail.com
