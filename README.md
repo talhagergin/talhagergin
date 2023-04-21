@@ -9,7 +9,8 @@ Software Developer
 - Mobil App Developing
 
 ### 🌱 *I’m currently learning*
-- ASP.NET
+- Node.js 
+- -Swift / Kotlin
 - Microservices
 
 ### 📧 Get in touch: talhagergin6@gmail.com
