@@ -6,12 +6,13 @@ Software Developer
 
 ### ⚡ *I’m interested in*
 - Backend Developing
-- Mobil App Developing
+- IOS Developing
 
 ### 🌱 *I’m currently learning*
 - Node.js 
 - Swift / Kotlin
 - Microservices
+- PL/SQL
 
 ### 📧 Get in touch: talhagergin6@gmail.com
 
