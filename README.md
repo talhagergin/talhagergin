@@ -9,10 +9,10 @@ Software Developer
 - IOS Developing
 
 ### 🌱 *I’m currently learning*
-- Node.js 
-- Swift / Kotlin
-- Microservices
+- SwiftUI/ UIKit
+- Node.js
 - PL/SQL
+- Oracle Apex
 
 ### 📧 Get in touch: talhagergin6@gmail.com
 
