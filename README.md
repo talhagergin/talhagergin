@@ -5,8 +5,10 @@ Software Developer
 ### **About Me**
 
 ### ⚡ *I’m interested in*
-- Backend Developing
 - IOS Developing
+- Oracle / Apex - PL/SQL
+- Backend Developing
+
 
 ### 🌱 *I’m currently learning*
 - SwiftUI/ UIKit
